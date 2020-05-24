@@ -1,0 +1,278 @@
+/* CSS Document */
+body {
+	background: linear-gradient(to right, #0C090A, #413b3c);}
+.container{
+margin-top:50px;}
+#bootstrap-overrides h1{
+	text-align:center;
+	background: #ffff00;
+	text-transform:uppercase;
+	margin: 0px ;
+	padding: 15px;
+	color:#000;}
+#bootstrap-overrides h2{
+	background: #fff;
+	text-transform:uppercase;
+	margin-bottom:0px;
+	padding: 15px;
+	text-align:left;
+	color:#000;
+	font-size:1em;
+	overflow:hidden;}
+#bootstrap-overrides h3{
+	text-transform:uppercase;
+	margin-bottom:0px;
+	padding: 15px;
+	text-align:left;
+	color:#000;
+	overflow:hidden;}
+#bootstrap-overrides	h3.progress-button{
+	color:#ffff00;}
+#bootstrap-overridesul li{
+	color:#000;}
+#bootstrap-overrides ul li a {
+	color:#000}
+#bootstrap-overrides ul{
+	 margin:0px !important;}
+#bootstrap-overrides a{
+	color:#fff !important;}
+/* BOOT OVERRIDES */
+/* Progress Bars */
+#bootstrap-overrides .progress{
+	height:50px;
+	margin-top:50px;
+	border-radius: 0px;
+	background: #413b3c;}
+#bootstrap-overrides .jumbotron{
+	border-radius:0rem;
+	background:none;
+	color:#000;}
+#bootstrap-overrides .btn-primary {
+	color: #000;
+	border-radius:0;
+	background-color: #ffff00;
+	border-color: #ffff00;
+	width:100%;}
+#bootstrap-overrides .progress-bar{
+	height:50px;
+	margin-bottom:50px;
+	color:#000 !important;
+	transition-duration: 3s;
+	text-align:left;}
+#bootstrap-overrides .progress-bar h3{
+	width: 100%;
+	margin-left:50px;
+	text-align:left;}
+#bootsrap-overrides .current{
+	background:#ffff00;
+	color:#000000;}
+#bootstrap-overrides .btn-primary {
+	background:transparent;
+	color:#ffff00;
+	border-radius: 0;
+	border-color: #ffff00;
+	width: 100%;}
+#bootstrap-overrides  .btn-primary:focus {
+  box-shadow: none !important;}
+#bootstrap-overrides tbody, thead{
+	color:#ffff00;}
+/* Responsive Table */
+#bootstrap-overrides .table thead th {
+  border-bottom: 1px solid #000;}
+#bootstrap-overrides .table td, .table th {
+  border-top: 1px solid #000;}
+/********** Projects **********/
+#bootstrap-overrides .btn{
+	width: 100%;
+	background: #000;
+	border: 0px solid transparent !important;
+	border-radius: 0px !important;}
+#bootstrap-overrides .btn-secondary {
+  color: #fff;
+  background-color: #000000 !important;
+  border-color: #868e96;}
+/* Nav bar default */
+#bootstrap-overrides .navbar-default{
+	background-color:transparent !important;
+	border:none !important;}
+#bootstrap-overrides .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+  color: #555;
+  background-color: transparent !important;}
+.skills{
+	background-color:#ffff00;}
+.project-details{
+  background-color: #ffff00;
+  padding: 15px;}
+#bootstrap-overrides .list-group-item {
+	background-color: #000;
+	border: 0px;}
+.project-thumbnail{
+  width:100%;}
+#bootstrap-overrides .btn-secondary:focus {
+  box-shadow:none;}
+.project{
+	margin-bottom:25px;}
+.project-list{
+	background:#ffff00;}
+.image-container{
+  min-height: 180px;
+  background: #ffff00;}
+.show{
+	display:block;}
+.hide{
+  display:none;}
+#bootstrap-overrides .hover{
+  background-color:#ffff00;
+  color:#000;}
+#bootstrap-overrides .list-active{
+  background-color:#ffff00;
+  color:#000;}
+.list-title{
+  background: #ffff00;
+  color: #000000;
+  padding: 10px 25px;
+  background-color:#ffff00;
+  text-transform:lowercase;
+  font-weight:bold;}
+/* background-images */
+.forgetful-typewriter-bg{
+	background-image: url("../images/forgetful-typewriter.jpg");}
+.forgetful-typewriter-bg:before{
+	background: rgba(0,0,0,0.5);}
+.forgetful-typewriter-bg-2 {
+	background-image: url("../images/forgetful-typewriter-2.jpg");}
+.icchp-bg{
+	background-image: url("../images/icchp.jpg");}
+.icchp-bg-2 {
+	background-image: url("../images/icchp-2.jpg");}
+.haslemere-museum-bg{
+	background-image: url("../images/haslemere-museum.jpg");}
+.haslemere-museum-bg-2 {
+	background-image: url("../images/haslemere-museum-2.jpg");}
+.john-howard-bg{
+	background-image: url("../images/john-howard.jpg");}
+.john-howard-bg-2 {
+	background-image: url("../images/john-howard-2.jpg");}
+.wef-bg{
+	background-image: url("../images/wef.jpg");}
+.wef-bg-2 {
+	background-image: url("../images/wef-2.jpg");}
+.iedesigner-bg{
+	background-image: url("../images/iedesigner_cover.jpg");}
+.iedesigner-bg-2 {
+	background-image: url("../images/iedesigner.jpg");}
+/*************
+Project Images
+*************/
+
+#bootstrap-overrides .row{
+	margin-bottom:50px;
+}
+
+.image{
+	min-height: 350px;
+	background-repeat: no-repeat;
+	background-size: cover;}
+
+.kite-glass-bg {
+	background-image: url("../projects/links/Kite Glass.jpg");}
+
+.triton-bg {
+	background-image: url("../projects/links/Triton Systems Home.jpg");}
+
+.morrisroe-bg{
+	background-image: url("../projects/links/Morrisroe.jpg");}
+
+.haier-bg{
+	background-image: url("../projects/links/Haier Biomedical.jpg");}
+
+.jelly-bg{
+	background-image: url("../projects/links/Jelly Communications.jpg");}
+
+.broanmain-bg{
+	background-image: url("../projects/links/Broanmain.png");}
+
+.atspeed-bg{
+	background-image: url("../projects/links/Atspeed.jpg");}
+
+.titan-bg{
+	background-image: url("../projects/links/Titan.png");}
+
+.freewheelers-bg{
+	background-image: url("../projects/links/Freewheelers - Home.jpg");}
+
+	/*************
+	Angular Styles
+	 *************/
+	 #bootstrap-overrides .fa-arrow-circle-up{
+		 position:absolute;
+		 right:30px;
+	 	 margin-top: 2px;}
+
+	 .rotate{
+		 transform: rotate(180deg);
+	 }
+	/*************
+	Population Styles 
+	*************/
+	#bootstrap-overrides .date {
+	/* font-family: 'EB Garamond', serif; */ 
+	font-style:italic;
+	font-size:80%;}
+
+	#bootstrap-overrides table.population th {
+	 text-align:left;}
+	
+	#bootstrap-overrides table.population td {
+	 text-align:left;}
+
+	#bootstrap-overrides table.population td .fa-percent{
+		padding-left:10px;
+		font-size:80%;}
+	
+	#bootstrap-overrides.world-progress .progress-bar-title{
+		text-align: left;
+		overflow: hidden;
+		right: 0;
+		left: 0;
+		top: 0;
+		font-size: 25px;
+		line-height: 50px;
+		color: #ffff00 !important;	
+	}
+
+	#bootstrap-overrides.world-progress .progress-bar-percent{
+		text-align: center !important;
+		overflow: hidden;
+		right: 0;
+		left: 0;
+		top: 0;
+		font-size: 25px;
+		line-height: 50px;
+		color: #ffff00 !important;	
+		margin-left:50px;
+	}
+
+	#bootstrap-overrides.world-progress div.progress-bar{
+		background:#ffff00;
+	}
+	
+	#bootstrap-overrides.world-progress .progress{
+		margin-top:0px;
+	}
+	
+	#bootstrap-overrides.world-progress .margin-bottom{
+		margin-bottom:50px;
+	}
+
+ /*************
+Index Styles
+  *************/
+ #bootstrap-overrides h3.index-button{
+	 text-transform:none;
+	 color:#ffff00;
+ }
+
+  #bootstrap-overrides a.index-link{
+		margin-bottom:50px;
+	}
